@@ -1,0 +1,5 @@
+- id: tool-executor-native
+  disabled: true
+- insert:
+    - id: dsh-mcp-tool-dispatch
+      name: dsh-mcp-tool-dispatch
